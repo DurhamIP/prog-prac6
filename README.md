@@ -10,14 +10,14 @@ In pair programming the two participants should swap roles frequently. Try chang
 
 ###Level 1: A List of People
 
-You need class which includes a list of people (an
-`ArrayList<Person>` to be precise). You could use the one of the classes (e.g. _Library_)
-from last practical or something like it. Make sure you have `getAge()`
-and `getName()` methods in your _Person class_. Then write methods
-to find the following (make sure you return a value rather than
-printing value):
+You need a class which includes a list of people (an
+`ArrayList<Person>` to be precise). You could use the one of the classes 
+from last practical (e.g. _Library_) or something like it. Make sure you have `getAge()`
+and `getName()` methods in your _Person_ class. Then write methods
+to find the following, making sure you return a value rather than
+printing value:
 
-1. The age of the oldest person. __Hint:__ use a local variable to remember the biggest age so far in a for loop.
+1. The age of the oldest person. __Hint:__ use a local variable to store the biggest age so far in a for loop.
 2. The name of the oldest person (the first one, if more than one person shares the greatest age).
 3. The total age of the group.
 4. The average (mean) age of the group.
