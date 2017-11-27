@@ -1,6 +1,6 @@
-#Introduction to Programming
+# Introduction to Programming
 
-##Practical 6: Working with Lists
+## Practical 6: Working with Lists
 
 ## Instructions
 
@@ -8,7 +8,7 @@ For this practical please work in pairs. Pair programming is used in practice wh
 
 In pair programming the two participants should swap roles frequently. Try changing over between every exercise listed below.
 
-###Level 1: A List of People
+### Level 1: A List of People
 
 You need a class which includes a list of people (an
 `ArrayList<Person>` to be precise). You could use the one of the classes 
@@ -24,7 +24,7 @@ printing value:
 5. The standard deviation of the age sqrt(sum((value-mean)^2))
 6. Write a method which creates the list of people, executes these methods and displays the result.
 
-###Level 2: Selecting from a list
+### Level 2: Selecting from a list
 
 Write methods to find the following. Think carefully about what the return type should be.
 
@@ -32,7 +32,7 @@ Write methods to find the following. Think carefully about what the return type 
 2. The name(s) of the oldest person (or people, if more than one personshares the greatest age).
 3. A list of everybody apart from the oldest person.
 
-###Level 3: More complex calculations
+### Level 3: More complex calculations
 
 These are pretty tricky to do just with loops and lists, so don’t worry if
 you can’t do them. There are other ways of doing them with sorting and maps
