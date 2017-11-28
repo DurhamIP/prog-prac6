@@ -21,7 +21,7 @@ printing value:
 2. The name of the oldest person (the first one, if more than one person shares the greatest age).
 3. The total age of the group.
 4. The average (mean) age of the group.
-5. The standard deviation of the age sqrt(sum((value-mean)^2))
+5. The standard deviation of the age sqrt(sum((value-mean)^2)/n) (for n people).
 6. Write a method which creates the list of people, executes these methods and displays the result.
 
 ### Level 2: Selecting from a list
